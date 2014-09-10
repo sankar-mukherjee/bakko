@@ -8,7 +8,7 @@ if you use this code please cite
 A Bengali Speech Synthesizer on Android OS (http://dl.acm.org/citation.cfm?id=2392873)
 
 bibtex
-
+```
 @inproceedings{mukherjee2012bengali,
         title={A Bengali speech synthesizer on Android OS},
         author={Mukherjee, Sankar and Mandal, Shyamal Kumar Das},
@@ -18,3 +18,4 @@ bibtex
         year={2012},
         organization={Association for Computational Linguistics}
 }
+```
