@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : inbox.xml
+    Created on : 1 December, 2011, 10:47 PM
+    Author     : Sankar
+    Description:
+        Purpose of the document follows.
+-->
+
+<TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/inbox_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+                android:padding="10dp"
+    android:textSize="20sp"/>
+    
+
+
